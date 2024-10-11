@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab 6 . 3 sem.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Human.cpp
+  RingList.cpp
+  main.cpp
+  Создание кода...
+  lab 6 . 3 sem.vcxproj -> D:\source\lab 6 . 3 sem\x64\Debug\lab 7 . 3 sem.exe

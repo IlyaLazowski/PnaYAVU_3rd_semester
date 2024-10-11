@@ -1,0 +1,2 @@
+C:\Users\ilya\source\repos\lab4 . 3sem\x64\Debug\lab4 . 3sem.exe
+D:\user\учёба\3 сем\С++\лабы\lab4 . 3sem\x64\Debug\lab4 . 3sem.exe

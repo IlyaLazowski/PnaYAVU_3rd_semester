@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TeacherUnionMember">
+    <Position X="6.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAQBAAAAAAAgAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TeacherUnionMember.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnionMember">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAQAAAAAAABAABAAAAAAAAgBAAAiIAAAAAA=</HashCode>
+      <FileName>UnionMember.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAQAAAAAAEAAAAAAAEAAAABQAwQAQABAA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exeption">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Exeption.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputError">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>InputError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RingList&lt;T&gt;">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAIAAwAIgAgAAAAAIAgAAAIACAA=</HashCode>
+      <FileName>RingList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAABgAQIAAAAAAAAAAAAAAAAAADAAAAkAAAAAAA=</HashCode>
+      <FileName>Teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="RingNode&lt;T&gt;">
+    <Position X="9" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>RingList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
